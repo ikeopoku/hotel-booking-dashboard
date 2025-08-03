@@ -172,7 +172,7 @@ Hotel-Booking-Dashboard/
 
 Built by \*\*Isaac Opoku\*\*  
 
-Email \ikeopoku@outlook.com
+Email: ikeopoku@outlook.com
 
 Portfolio: https://sites.google.com/view/isaac-opoku
 
@@ -192,6 +192,7 @@ Medium: https://medium.com/@ikeopoku
 
 This project is open-source and is available.
 
+[View Article on Google Sheet Dashboard](https://sites.google.com/view/isaac-opoku/projects/google-sheet/explanation-and-dashboard)
 
 [View Google Sheet Dashboard](https://docs.google.com/spreadsheets/d/1-USQuDvDaXuaHynlgn16RfLHeO_-armJhNY9qb8Ikdc/edit?usp=sharing)
 
