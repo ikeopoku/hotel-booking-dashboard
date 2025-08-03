@@ -172,7 +172,13 @@ Hotel-Booking-Dashboard/
 
 Built by \*\*Isaac Opoku\*\*  
 
-&nbsp;\[ikeopoku@outlook.com]
+Email \ikeopoku@outlook.com
+
+Portfolio: https://sites.google.com/view/isaac-opoku
+
+Linkedin: https://www.linkedin.com/in/isaac-opoku-analytics-economics-specialist/
+
+Medium: https://medium.com/@ikeopoku
 
 
 
